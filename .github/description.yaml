@@ -1,0 +1,14 @@
+description: "An intelligent question-answering system for PDF documents using vector search and modern NLP techniques"
+topics:
+  - pdf-processing
+  - natural-language-processing
+  - question-answering
+  - vector-search
+  - langchain
+  - document-analysis
+  - semantic-search
+  - faiss
+  - embeddings
+  - information-retrieval
+  - document-intelligence
+  - python
